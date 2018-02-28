@@ -1,2 +1,3 @@
-My second github repository - Muhammad Rizal Fahmi -
+My second github repository
+Muhammad Rizal Fahmi
 # bandunginfashion.github.io
