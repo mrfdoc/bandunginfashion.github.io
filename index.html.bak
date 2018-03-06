@@ -45,22 +45,14 @@
 	<![endif]-->
 
 
-	<!-- Start WOWSlider.com HEAD section -->
-	<!-- add to the <head> of your page -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
 	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
 	<script type="text/javascript" src="engine0/jquery.js"></script>
 	<!-- End WOWSlider.com HEAD section -->
-	<!-- Start WOWSlider.com HEAD section -->
-	<!-- add to the <head> of your page -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
 	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
 	<!--script type="text/javascript" src="engine1/jquery.js"></script-->
-	<!-- End WOWSlider.com HEAD section -->
-	<!-- Start WOWSlider.com HEAD section -->
-	<!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
-	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
-	<!-- End WOWSlider.com HEAD section -->
-</head>
+	<!-- End WOWSlider.com HEAD section --></head>
 
 <body>
 	<div class="fh5co-loader"></div>
@@ -118,8 +110,7 @@
 					<div class="col-md-12 text-center">
 						<div class="display-t js-fullheight">
 							<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-								<h1>Welcome to th
-									<em>&amp;</em>
+								<h1>Welcome to th<em>&amp;</em>
 									<br> Bandung
 									<em>in</em> Fashion</h1>
 								<h2>Everything about Fashion in Parijs Van Java</h2>
@@ -139,14 +130,7 @@
 					<div class="col-md-5 col-md-push-1 animate-box">
 						<div class="section-heading">
 							<h2>Fashion in Bandung</h2>
-							<p>Creativity Bandung community is also one of the most important capital in the fashion industry. Bandung society is
-								very creative in making something unique, new, and has never been marketed. Previously, the people there make various
-								clothing and marketed directly known as the Bandung distro. Clothing design made by the people of Bandung every day
-								is always different. Initially they just made a simple design with the help of paper designed in accordance with
-								the wishes. But now the designs that are made already using the help of technology, such as computers and after the
-								design is completed then directly made with increasingly sophisticated tools. Changes in fashion climate in Bandung
-								is very dynamic to follow the fashion trend so that the blend of Old School and other styles can be combined into
-								a distinctive style of fashion in this Flower City</p>
+							<p>Creativity Bandung community is also one of the most important capital in the fashion industry. Bandung society is very creative in making something unique, new, and has never been marketed. Previously, the people there make various clothing and marketed directly known as the Bandung distro. Clothing design made by the people of Bandung every day is always different. Initially they just made a simple design with the help of paper designed in accordance with the wishes. But now the designs that are made already using the help of technology, such as computers and after the design is completed then directly made with increasingly sophisticated tools. Changes in fashion climate in Bandung is very dynamic to follow the fashion trend so that the blend of Old School and other styles can be combined into a distinctive style of fashion in this Flower City</p>
 							<p>
 								<a href="about.html" target="_blank" class="btn btn-primary btn-outline">See History</a>
 							</p>
@@ -163,16 +147,7 @@
 						<h2>Today's Fashion in Bandung</h2>
 						<div class="row">
 							<div class="col-md-6">
-								<p>Various clothing in Bandung and very famous are clothes, shirts, jackets, shoes, accessories, pants and there is
-									also a hat. Jackets manufactured from Bandung are very different from other products, because the jacket is very
-									thick and the material is smoother and more durable so it is not easy to tear. After the clothing was in demand,
-									shirt products began to develop in 1996. Initially, in the Ujung Berung area, the name Deden Ketu who owns Rias
-									Indie Band started his business by making merchandise music underground. After that start making t-shirts and have
-									various designs. After the shirt becomes a trend, then there are famous shoes, bags and sandals in the area Cibaduyut.
-									Cibaduyut is a very famous production site and almost everyone knows Cibaduyut as a place to produce sandals, bags
-									and shoes. Cheap prices and very many models can be found there. In addition, the trend of Hijab Style and Kpop
-									models is now increasingly in Bandung so that the style changes from the past and now can be combined with a very
-									interesting theme so that it becomes unique for Fashion in Bandung.</p>
+								<p>Various clothing in Bandung and very famous are clothes, shirts, jackets, shoes, accessories, pants and there is also a hat. Jackets manufactured from Bandung are very different from other products, because the jacket is very thick and the material is smoother and more durable so it is not easy to tear. After the clothing was in demand, shirt products began to develop in 1996. Initially, in the Ujung Berung area, the name Deden Ketu who owns Rias Indie Band started his business by making merchandise music underground. After that start making t-shirts and have various designs. After the shirt becomes a trend, then there are famous shoes, bags and sandals in the area Cibaduyut. Cibaduyut is a very famous production site and almost everyone knows Cibaduyut as a place to produce sandals, bags and shoes. Cheap prices and very many models can be found there. In addition, the trend of Hijab Style and Kpop models is now increasingly in Bandung so that the style changes from the past and now can be combined with a very interesting theme so that it becomes unique for Fashion in Bandung.</p>
 							</div>
 						</div>
 					</div>
@@ -252,47 +227,58 @@
 						<aside id="fh5co-slider-wrwap">
 							<div class="flexslider">
 								<ul class="slides">
-									<!-- Start WOWSlider.com BODY section -->
-									<!-- add to the <body> of your page -->
-									<div id="wowslider-container0">
-										<div class="ws_images">
-											<ul>
-												<li>
-													<img src="data0/images/matches_color.jpg" alt="Matches Color" title="Matches Color" id="wows0_0" />
-												</li>
-												<li>
-													<a href="http://wowslider.net">
-														<img src="data0/images/mix_printed_fitout.jpg" alt="jquery slideshow" title="Mix Printed Outfit" id="wows0_1" />
-													</a>
-												</li>
-												<li>
-													<img src="data0/images/outfit_themed.jpg" alt="Outfit Themed" title="Outfit Themed" id="wows0_2" />
-												</li>
-											</ul>
-										</div>
-										<div class="ws_bullets">
-											<div>
-												<a href="#" title="Matches Color">
-													<span>
-														<img src="data0/tooltips/matches_color.jpg" alt="Matches Color" />1</span>
-												</a>
-												<a href="#" title="Mix Printed Outfit">
-													<span>
-														<img src="data0/tooltips/mix_printed_fitout.jpg" alt="Mix Printed Outfit" />2</span>
-												</a>
-												<a href="#" title="Outfit Themed">
-													<span>
-														<img src="data0/tooltips/outfit_themed.jpg" alt="Outfit Themed" />3</span>
-												</a>
+									<li style="background-image: url(images/fashion_1.jpg);">
+										<div class="overlay-gradient"></div>
+										<div class="container-fluid">
+											<div class="row">
+												<div class="col-md-12 col-md-offset-0 col-md-pull-10 slider-text slider-text-bg">
+													<div class="slider-text-inner">
+														<div class="desc">
+															<h2>Color
+																<em>mix</em>
+															</h2>
+															<p>Style typical city of Bandung is an unusual mix of colors, this blend of color gives its own uniqueness plus
+																the uniqueness of accessories and other fashion supporting categories that make the fashion from this flower
+																city to be very unique</p>
+														</div>
+													</div>
+												</div>
 											</div>
 										</div>
-										<div class="ws_script" style="position:absolute;left:-99%">
-											<a href="http://wowslider.net">image slider</a> by WOWSlider.com v8.8</div>
-										<div class="ws_shadow"></div>
-									</div>
-									<script type="text/javascript" src="engine0/wowslider.js"></script>
-									<script type="text/javascript" src="engine0/script.js"></script>
-									<!-- End WOWSlider.com BODY section -->
+									</li>
+									<li style="background-image: url(images/fas.jpg);">
+										<div class="overlay-gradient"></div>
+										<div class="container-fluid">
+											<div class="row">
+												<div class="col-md-12 col-md-offset-0 col-md-pull-10 slider-text slider-text-bg">
+													<div class="slider-text-inner">
+														<div class="desc">
+															<h2>Mix
+																<em>Printed</em> Outfit</h2>
+															<p>The development of fashion in the city of Bandung is moving dynamically make the fashion in the city of Bandung is very unique. One of the uniqueness is the combination of style one with other styles for both men and women. This uniqueness can be a selling point for designers in developing the ability to design a new style for the young.</p>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li style="background-image: url(images/4326.jpg);">
+										<div class="overlay-gradient"></div>
+										<div class="container-fluid">
+											<div class="row">
+												<div class="col-md-12 col-md-offset-0 col-md-pull-10 slider-text slider-text-bg">
+													<div class="slider-text-inner">
+														<div class="desc">
+															<h2>Outfit
+																<em>Themed</em>
+															</h2>
+															<p>Fashion in Bandung is very famous theme although it has an unusual variation. Themes that are hits in the fashion community in the city of Bandung is Old School, Hijab Style, and some Kpop styles that are trending globally.</p>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
 								</ul>
 							</div>
 						</aside>
@@ -300,6 +286,8 @@
 				</div>
 			</div>
 		</div>
+
+		
 
 		<div id="fh5co-blog" class="fh5co-section">
 			<div class="container">
@@ -313,49 +301,38 @@
 				<div class="row">
 					<div class="col-md-4">
 						<div class="fh5co-blog animate-box">
-							<a href="http://bandungside.com/2017/12/islamic-fashion-institute-lahirkan-kembali-desaigner-busana-muslim-peka-jaman/" target="_blank"
-							 class="blog-bg" style="background-image: url(images/gallery_1.jpg);"></a>
+							<a href="http://bandungside.com/2017/12/islamic-fashion-institute-lahirkan-kembali-desaigner-busana-muslim-peka-jaman/" target="_blank" class="blog-bg" style="background-image: url(images/gallery_1.jpg);"></a>
 							<div class="blog-text">
 								<span class="posted_on">Dec. 5th 2017</span>
 								<h3>
 									<a href="http://bandungside.com/2017/12/islamic-fashion-institute-lahirkan-kembali-desaigner-busana-muslim-peka-jaman/" target="_blank">Second Islamic Fashion Institute (IFI) graduation</a>
 								</h3>
-								<p>Islamic Fashion Institute (IFI) held the 2nd graduation ceremony in 2017 by printing a reliable villager in the IX
-									field of Muslim fashion at Click Square Jl. Naripan No.38 Bandung, Tuesday (5/12/2017). This time, gave birth to
-									7 graduates, 1 person in batch-1 and 6 graduates in batch-2 thanks to his hard work.</p>
+								<p>Islamic Fashion Institute (IFI) held the 2nd graduation ceremony in 2017 by printing a reliable villager in the IX field of Muslim fashion at Click Square Jl. Naripan No.38 Bandung, Tuesday (5/12/2017). This time, gave birth to 7 graduates, 1 person in batch-1 and 6 graduates in batch-2 thanks to his hard work.</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="fh5co-blog animate-box">
-							<a href="http://bandungside.com/2017/12/bandung-modest-fashion-vision-2018-kembalikan-roh-kota-fashion/" target="_blank"
-							 class="blog-bg" style="background-image: url(images/gallery_2.jpg);"></a>
+							<a href="http://bandungside.com/2017/12/bandung-modest-fashion-vision-2018-kembalikan-roh-kota-fashion/" target="_blank" class="blog-bg" style="background-image: url(images/gallery_2.jpg);"></a>
 							<div class="blog-text">
 								<span class="posted_on">Dec. 19th 2017</span>
 								<h3>
 									<a href="http://bandungside.com/2017/12/bandung-modest-fashion-vision-2018-kembalikan-roh-kota-fashion/" target="_blank">Bandung Modest Fashion Vision 2018</a>
 								</h3>
-								<p>In order to make the city of Bandung as a Modest Fashion City icon in Indonesia, the Office of Culture and Tourism
-									City of Bandung to launch Bandung Modest Fashion Vision 2018 which is kick off from the creative economic activities
-									in the field of fashion. The event is held at Click Square. Tuesday, (19/12/2017).</p>
+								<p>In order to make the city of Bandung as a Modest Fashion City icon in Indonesia, the Office of Culture and Tourism City of Bandung to launch Bandung Modest Fashion Vision 2018 which is kick off from the creative economic activities in the field of fashion. The event is held at Click Square. Tuesday, (19/12/2017).</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="fh5co-blog animate-box">
-							<a href="http://bandungside.com/2017/12/bramanta-wijaya-kiprah-6-tahunnya-persembahkan-faithfully/" target="_blank" class="blog-bg"
-							 style="background-image: url(images/gallery_3.jpg);"></a>
+							<a href="http://bandungside.com/2017/12/bramanta-wijaya-kiprah-6-tahunnya-persembahkan-faithfully/" target="_blank" class="blog-bg" style="background-image: url(images/gallery_3.jpg);"></a>
 							<div class="blog-text">
 								<span class="posted_on">Dec. 2017</span>
 								<h3>
 									<a href="http://bandungside.com/2017/12/bramanta-wijaya-kiprah-6-tahunnya-persembahkan-faithfully/" target="_blank">Single Show</a>
 								</h3>
-								<p>Celebrating 6 years of doing business in the fashion world of Indonesia, Bramanta Wijaya fashion house held a single
-									show entitled Faithfully. Glamor and glamor of the 1930s became the main inspiration from the show which will feature
-									the Spring / Summer 2018 collection gown. Through his imagination, Bramanta Wijaya concocted various elements and
-									cutting into his creation this season. Fashion lovers will be invited to feel the splendor of "the old Hollywood
-									Glamor".
-								</p>
+								<p>Celebrating 6 years of doing business in the fashion world of Indonesia, Bramanta Wijaya fashion house held a single show entitled Faithfully.
+									Glamor and glamor of the 1930s became the main inspiration from the show which will feature the Spring / Summer 2018 collection gown. Through his imagination, Bramanta Wijaya concocted various elements and cutting into his creation this season. Fashion lovers will be invited to feel the splendor of "the old Hollywood Glamor".</p>
 							</div>
 						</div>
 					</div>
@@ -373,12 +350,9 @@
 			<div class="container">
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-						<h2>About Bandung
-							<span>.</span>
-						</h2>
-						<p>"Dan Bandung bagiku bukan cuma masalah geografis, lebih jauh dari itu melibatkan perasaan, yang bersamaku ketika sunyi"
-							-Pidi Baiq</p>
-
+						<h2>About Bandung<span>.</span> </h2>
+						<p>"Dan Bandung bagiku bukan cuma masalah geografis, lebih jauh dari itu melibatkan perasaan, yang bersamaku ketika sunyi" -Pidi Baiq</p>
+						
 					</div>
 				</div>
 			</div>
@@ -458,8 +432,7 @@
 			<i class="icon-arrow-up22"></i>
 		</a>
 	</div>
-
-
+	
 
 	<!-- jQuery -->
 	<script src="js/jquery.min.js"></script>
